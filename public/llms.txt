@@ -1,0 +1,75 @@
+# Twist Events — Generative Engine Optimization Map
+
+> Twist Events is a dynamic event entertainment company that specializes in creating unforgettable, buzz-worthy experiences. Their signature offerings include a stylish phone-booth greeting recording station and a glowing neon dance floor experience. The brand has a vibrant, energetic personality with a focus on wow-factor moments — the kind people talk about the next day. They operate nationwide across Israel, serving both private and corporate events, with a bold and playful identity reflected in their tagline and use of emojis and neon aesthetics.
+
+---
+
+## Pages
+
+### בית
+https://twist-events-edd13069.zappy5.app
+מחפשים אטרקציות לאירועים שישאירו את כולם בהלם? Twist Events מביאה לכם תא הקלטה טלפוני סטייליסטי ורחבות ניאון זוהרות שחייבים לראות. הפיכו כל אירוע לחוויה בלתי נשכחת עם טוויסט יצירתי — צרו קשר עוד היום!
+
+### תודה רבה | Twist Events
+https://twist-events-edd13069.zappy5.app/thank-you
+תודה רבה על פנייתך! צוות creative twist events קיבל את ההודעה ויחזור אליך בהקדם האפשרי עם כל הפרטים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://twist-events-edd13069.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://twist-events-edd13069.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://twist-events-edd13069.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://twist-events-edd13069.zappy5.app
+- Endpoint: https://twist-events-edd13069.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Twist Events
+Twist Events is a dynamic event entertainment company that specializes in creating unforgettable, buzz-worthy experiences. Their signature offerings include a stylish phone-booth greeting recording station and a glowing neon dance floor experience. The brand has a vibrant, energetic personality with a focus on wow-factor moments — the kind people talk about the next day. They operate nationwide across Israel, serving both private and corporate events, with a bold and playful identity reflected in their tagline and use of emojis and neon aesthetics.
+
+## Services/Products
+- עמדת הקלטת ברכות עם טלפון מעוצב
+- חוויית ניאון זוהרת לרחבת הריקודים
+
+## Target Audience
+- בעלי אירועים פרטיים ועסקיים בכל הארץ
+- בעלי אירועים פרטיים
+- מארגני אירועים עסקיים
+- מפיקי חתונות יוקרה
+
+## Industry
+Event Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://twist-events-edd13069.zappy5.app/sitemap.xml
+- Robots: https://twist-events-edd13069.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://twist-events-edd13069.zappy5.app/llms-full.txt
